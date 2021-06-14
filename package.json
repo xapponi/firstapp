@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "eth-lightwallet": "^4.0.0",
+    "web3": "^1.3.6"
+  },
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "An intro to ethereum development",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "keygen": "node keygen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xapponi/firstapp.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "xapponi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xapponi/firstapp/issues"
+  },
+  "homepage": "https://github.com/xapponi/firstapp#readme"
+}
